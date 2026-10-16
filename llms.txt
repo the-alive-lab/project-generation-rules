@@ -1,0 +1,14 @@
+# The Alive Lab — Project Generation Rules
+
+> Shared recommendations v0.1 for starting and evolving projects that are legible to humans and AI agents. Reference, not universally adopted policy.
+
+- [README](README.md): purpose, scope and navigation.
+- [Project foundation rules](rules/project-foundation.md): type, structure, authority, provenance and state.
+- [Human and agent discovery rules](rules/human-and-agent-discovery.md): README, AGENTS.md and llms.txt responsibilities.
+- [Bootstrap guide](guides/bootstrap.md): starting from an empty repository.
+- [Evolution guide](guides/evolution.md): reorganizing responsibly.
+- [New-project checklist](checklists/new-project.md): verification.
+- [Agent instructions](AGENTS.md): contributing to these rules.
+- [Visualization Rules](https://github.com/the-alive-lab/visualization-rules): separate optional visual guidance.
+
+Consumer projects decide adoption. Human authority and canonical local sources take precedence.
